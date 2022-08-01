@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jayasurya2002
 - 👀 I’m interested in AI, Data Science
 - 🌱 I’m currently learning BE Computer Science Engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: jksurya67@gmail.com
 
 <!---
